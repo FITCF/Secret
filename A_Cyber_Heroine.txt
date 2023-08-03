@@ -1,0 +1,2 @@
+Well, the flag is: 
+chctf{2023!@mu5f@!5y_1009} 
